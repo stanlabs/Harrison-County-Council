@@ -6,7 +6,7 @@
 
 IN THE COUNCIL OF HARRISON COUNTY
 
-June 29, 2026 Mr. A0IM introduced the following Ordinance to the Council
+June 29, 2026 — Mr. A0IM introduced the following Ordinance to the Council.
 
 ## AN ORDINANCE
 
@@ -228,4 +228,4 @@ To introduce the full criminal code to Harrison (finally).
 
 ## SECTION 6. SEVERABILITY
 
-(a) If any provision of this Ordinance, or the application thereof to any person, office, circumstance, or Ordinance, is held invalid, unconstitutional, or unenforceable by a Court of Justice or competent jurisdiction, such invalidity shall not affect the other provisions or applications of this Ordinance which can be given effect without the invalid provision or application, and to this end the provisions of this Ordinance are declared to be severable
+(a) If any provision of this Ordinance, or the application thereof to any person, office, circumstance, or Ordinance, is held invalid, unconstitutional, or unenforceable by a Court of Justice or competent jurisdiction, such invalidity shall not affect the other provisions or applications of this Ordinance which can be given effect without the invalid provision or application, and to this end the provisions of this Ordinance are declared to be severable.
