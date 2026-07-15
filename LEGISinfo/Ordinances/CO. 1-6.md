@@ -24,7 +24,9 @@ To ban the open-carrying of longarms within Jamestown Municipality limits
 
 ## SECTION 2. DEFINITIONS
 
-Jamestown Municipal Limits: The municipal limit of Jamestown, indicated by signage displaying 'Jamestown' Longarm: Any firearm designed or intended to be fired from the shoulder, including but not limited to rifles and shotguns, or any other firearm that occupies the main weapon slot
+Jamestown Municipal Limits: The municipal limit of Jamestown, indicated by signage displaying 'Jamestown'
+
+Longarm: Any firearm designed or intended to be fired from the shoulder, including but not limited to rifles and shotguns, or any other firearm that occupies the main weapon slot
 
 ---
 
