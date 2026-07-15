@@ -26,11 +26,11 @@ To introduce the Failure to Identify Ordinance.
 
 (a) IDENTIFICATION DOCUMENT
 
-> (i) Any document, issued by the county, that displays a picture and the name of the holder.
+- (i) Any document, issued by the county, that displays a picture and the name of the holder.
 
 (b) LAWFUL STOP
 
-> (i) The lawful temporary detention of an individual by a law enforcement officer, based on reasonable suspicion or probable cause.
+- (i) The lawful temporary detention of an individual by a law enforcement officer, based on reasonable suspicion or probable cause.
 
 ---
 
@@ -38,11 +38,11 @@ To introduce the Failure to Identify Ordinance.
 
 (a) FAILURE TO IDENTIFY
 
-> (i) Any person who, during a lawful stop, detention, or arrest, refuses to provide their name and any identification document in their possession when requested by a law enforcement officer, shall be guilty of Failure to Identify.
->
-> (ii) Failure to Identify shall be a misdemeanor-type offense.
->
-> (iii) Failure to Identify shall warrant a jail time of 5 minutes.
+- (i) Any person who, during a lawful stop, detention, or arrest, refuses to provide their name and any identification document in their possession when requested by a law enforcement officer, shall be guilty of Failure to Identify.
+
+- (ii) Failure to Identify shall be a misdemeanor-type offense.
+
+- (iii) Failure to Identify shall warrant a jail time of 5 minutes.
 
 ---
 

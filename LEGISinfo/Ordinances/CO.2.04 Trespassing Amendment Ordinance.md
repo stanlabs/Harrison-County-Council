@@ -26,7 +26,7 @@ To amend the sentence of Trespassing.
 
 (a) TRESPASSING
 
-> (i) Trespassing jail sentence shall be amended to a jail sentence of 5 minutes.
+- (i) Trespassing jail sentence shall be amended to a jail sentence of 5 minutes.
 
 ---
 

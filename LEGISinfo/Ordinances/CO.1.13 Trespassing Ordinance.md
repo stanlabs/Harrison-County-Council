@@ -28,15 +28,15 @@ To Criminalize Trespassing
 
 (b) Trespassing shall be added to Title 1, Chapter V of H.C.C. as "Whoever enters or remains in any place, knowing that they are not licensed or privileged to do so, shall be guilty of Trespassing."
 
-> (i) Trespassing shall be considered a Misdemeanor and shall result in 2 minutes in the County Jail or a $100 fine.
+- (i) Trespassing shall be considered a Misdemeanor and shall result in 2 minutes in the County Jail or a $100 fine.
 
 (c) For the purposes of Section 2 (b) a person must be informed of their lack of privilege by:
 
-> (i) Posted signage clearly stating that no trespassers are allowed in said place,
->
-> (ii) Actual communication to the actor,
->
-> (iii) Existence of fencing or other enclosure designed to prevent intruders.
+- (i) Posted signage clearly stating that no trespassers are allowed in said place,
+
+- (ii) Actual communication to the actor,
+
+- (iii) Existence of fencing or other enclosure designed to prevent intruders.
 
 ---
 

@@ -30,11 +30,11 @@ To regulate Firearms usage,
 
 (c) The term "On-Duty" shall refer to any individual, employed by the government, who is currently on a team tied to their respective agency.
 
-> (i) The term "team" refers to the in-game team provided by the game mechanics
+- (i) The term "team" refers to the in-game team provided by the game mechanics
 
 (d) The term "Off-Duty" shall refer to any individual, employed by the government, who is currently not on a team tied to their respective agency.
 
-> (i) The term "team" refers to the in-game team provided by the game mechanics
+- (i) The term "team" refers to the in-game team provided by the game mechanics
 
 (e) The term "Militiaman" shall refer to any individual, currently employed by the Harrison County Militia.
 
@@ -76,19 +76,19 @@ To regulate Firearms usage,
 
 (a) It shall be illegal for any person who is not an On-Duty Certified Peace Officer or an On-Duty Militiaman to intentionally possess, carry, or use a firearm capable of fully automatic fire.
 
-> (i) Such person shall be guilty of "Illegal Possession of Non-Civilian Grade Firearm", a Felony,  and shall serve up to 12 minutes in the County Jail or be fined $500.
+- (i) Such person shall be guilty of "Illegal Possession of Non-Civilian Grade Firearm", a Felony,  and shall serve up to 12 minutes in the County Jail or be fined $500.
 
 (b) It shall be illegal for any person to possess a modified firearm that has had its barrel shortened.
 
-> (i) Such person shall be guilty of "Illegal Possession of a Modified Firearm", a Felony,  and shall serve up to 10 minutes in the County Jail or be fined 400$.
+- (i) Such person shall be guilty of "Illegal Possession of a Modified Firearm", a Felony,  and shall serve up to 10 minutes in the County Jail or be fined 400$.
 
 (c) It shall be illegal to possess a firearm without holding a county-issued firearms license.
 
-> (i) Such person shall be guilty of "Illegal Possession of a Firearm", a Felony,  and shall serve up to 8 minutes in the County Jail or be fined 300$.
+- (i) Such person shall be guilty of "Illegal Possession of a Firearm", a Felony,  and shall serve up to 8 minutes in the County Jail or be fined 300$.
 
 (d) It shall be illegal to possess ammunition without holding a county-issued firearms license.
 
-> (i) Such person shall be guilty of "Illegal Possession of Ammunition", a Misdemeanor,  and shall serve up to 5 minutes in the County Jail or be fined $$ $100. $$
+- (i) Such person shall be guilty of "Illegal Possession of Ammunition", a Misdemeanor,  and shall serve up to 5 minutes in the County Jail or be fined $$ $100. $$
 
 (e) An On-Duty Certified Peace Officer or an On-Duty Militiaman may, for the purposes of seizing illegal weaponry, possess otherwise illegal weaponry.
 
@@ -100,7 +100,7 @@ To regulate Firearms usage,
 
 (a) A person may not carry any weapon within a weapons free zone unless they are a Certified Peace Officer, Militiaman or otherwise exempt by this section.
 
-> (i) County Councilors are exempt from this section while attending a County Board session.
+- (i) County Councilors are exempt from this section while attending a County Board session.
 
 (b) A weapons free zone must have a clearly visible sign that clearly distinguishes that said zone is weapons free.
 
@@ -112,8 +112,8 @@ To regulate Firearms usage,
 
 (a) A person may have their firearms license revoked by a supervisor or a judge if they have actively used a firearm during the commission of a criminal act or they have committed a firearms related offense.
 
-> (i) A "supervisor" shall be defined as an on-duty certified peace officer holding the rank of Sergeant or above.
-> (ii) The standard for revocation shall be "Probable Cause".
+- (i) A "supervisor" shall be defined as an on-duty certified peace officer holding the rank of Sergeant or above.
+- (ii) The standard for revocation shall be "Probable Cause".
 
 (b) A person who has had their firearms license revoked may not obtain another within the 24 hour period from their revocation.
 
@@ -125,23 +125,23 @@ To regulate Firearms usage,
 
 (a) No person may sell, distribute or otherwise transfer Non-Civilian Grade Firearms to any other person.
 
-> (i) Such person shall be guilty of "Distribution of Non-Civilian Grade Firearms", a Felony,  and shall serve up to 15 minutes in the County Jail or be fined $2,000.
+- (i) Such person shall be guilty of "Distribution of Non-Civilian Grade Firearms", a Felony,  and shall serve up to 15 minutes in the County Jail or be fined $2,000.
 
 (b) A person may sell Civilian-Grade firearms and ammunition to other parties, provided both parties have valid firearms licenses and the seller possesses a valid authorization from the County's Executive Office.
 
-> (i) A person may distribute firearms and ammunition without a valid authorization, provided they are not profiting from said distribution and are ensuring both parties possess a valid firearms license.
-> 
-> > (1) For the purposes of this Ordinance this person is also treated as a "Seller"
->
-> (ii) It shall be the duty of the seller to ensure the buyer has a valid license.
->
-> (iii) Should the seller of a firearm lack a valid authorization from the County's Executive Office or fail to ensure their buyer has a valid Firearms license, they shall be guilty of "Illegal Distribution of a Firearm", a Felony, and shall serve up to 10 minutes in the County Jail or be fined $1,000.
-> 
-> > (1) A person intentionally distributing firearms to a person without ensuring they have a firearms license shall also be guilty of Section 7 (b) (ii)
->
-> (iv) Should the seller of ammunition lack a valid authorization from the County's Executive Office or fail to ensure their buyer has a valid Firearms license, they shall be guilty of "Illegal Distribution of Ammunition", a Misdemeanor, and shall serve up to 5 minutes in the County Jail or be fined $500.
-> 
-> > (1) A person intentionally distributing ammunition to a person without ensuring they have a firearms license shall also be guilty of Section 7 (b).
+- (i) A person may distribute firearms and ammunition without a valid authorization, provided they are not profiting from said distribution and are ensuring both parties possess a valid firearms license.
+- 
+  - (1) For the purposes of this Ordinance this person is also treated as a "Seller"
+
+- (ii) It shall be the duty of the seller to ensure the buyer has a valid license.
+
+- (iii) Should the seller of a firearm lack a valid authorization from the County's Executive Office or fail to ensure their buyer has a valid Firearms license, they shall be guilty of "Illegal Distribution of a Firearm", a Felony, and shall serve up to 10 minutes in the County Jail or be fined $1,000.
+- 
+  - (1) A person intentionally distributing firearms to a person without ensuring they have a firearms license shall also be guilty of Section 7 (b) (ii)
+
+- (iv) Should the seller of ammunition lack a valid authorization from the County's Executive Office or fail to ensure their buyer has a valid Firearms license, they shall be guilty of "Illegal Distribution of Ammunition", a Misdemeanor, and shall serve up to 5 minutes in the County Jail or be fined $500.
+- 
+  - (1) A person intentionally distributing ammunition to a person without ensuring they have a firearms license shall also be guilty of Section 7 (b).
 
 ---
 
@@ -149,23 +149,23 @@ To regulate Firearms usage,
 
 (a) The following equipment shall fall under the category of Non-Civilian Equipment:
 
-> (i) Radeon X-26 Taser,
-> (ii) Radeon X-86 Beanbag Shotgun,
-> (iii) Radeon Stinger,
-> (iv) LAC M89 Launcher,
-> (v) Any ammunition used for the operation of equipment named in this section,
-> (vi) Barrier(s),
-> (vii) Traffic Cone(s).
+- (i) Radeon X-26 Taser,
+- (ii) Radeon X-86 Beanbag Shotgun,
+- (iii) Radeon Stinger,
+- (iv) LAC M89 Launcher,
+- (v) Any ammunition used for the operation of equipment named in this section,
+- (vi) Barrier(s),
+- (vii) Traffic Cone(s).
 
 (b) No person may sell, distribute or otherwise transfer Non-Civilian Equipment to any other person.
 
-> (i) Such person shall be guilty of "Distribution of Non-Civilian Equipment", a Felony,  and shall serve up to 12 minutes in the County Jail or be fined $1,000.
+- (i) Such person shall be guilty of "Distribution of Non-Civilian Equipment", a Felony,  and shall serve up to 12 minutes in the County Jail or be fined $1,000.
 
 (c) It shall be illegal for any person who is not an On-Duty Certified Peace Officer or an On-Duty Militiaman to possess, carry or use Non-Civilian Equipment.
 
-> (i) Such person shall be guilty of "Illegal Possession of Non-Civilian Equipment",  a Felony,  and shall serve up to 10  minutes in the County Jail or be fined $750.
->
-> (ii) It shall not be illegal for On-Duty members of County Fire Department, Transit Authority and Parks and Recreation to possess, carry or use Barrier(s) and Traffic Cone(s).
+- (i) Such person shall be guilty of "Illegal Possession of Non-Civilian Equipment",  a Felony,  and shall serve up to 10  minutes in the County Jail or be fined $750.
+
+- (ii) It shall not be illegal for On-Duty members of County Fire Department, Transit Authority and Parks and Recreation to possess, carry or use Barrier(s) and Traffic Cone(s).
 
 ---
 
