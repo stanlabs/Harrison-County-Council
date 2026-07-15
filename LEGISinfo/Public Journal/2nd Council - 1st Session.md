@@ -1,3 +1,6 @@
+> [!NOTE]
+> These minutes have not been approved by the County Council. They may be subject to change.
+
 Second Council Inaugural Session - 1:20pm PST
 
 Attendance:
