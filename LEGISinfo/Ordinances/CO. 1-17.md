@@ -50,12 +50,12 @@ To establish the Harrison County Weather Service
 
 ---
 
-## SECTION 4. MEMBERSHIP AND SERVICE
+## SECTION 3. MEMBERSHIP AND SERVICE
 
 (a) The Chief Meteorologist may appoint, employ, and remove such employees, contractors, and volunteers as necessary in accordance with applicable law, the County Charter, and personnel policies adopted by the County.
 
 ---
 
-## SECTION 5. SEVERABILITY
+## SECTION 4. SEVERABILITY
 
 (a) If any provision of this Act, or the application thereof to any person, office, circumstance, or act, is held invalid, unconstitutional, or unenforceable by a Court of Justice or competent jurisdiction, such invalidity shall not affect the other provisions or applications of this Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are declared to be severable.
