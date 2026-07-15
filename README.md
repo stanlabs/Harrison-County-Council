@@ -1,4 +1,4 @@
-# Municipal Council for the Township of Clearmount
+# County Council for the Harrison County, Cheseapeake
 
 `LEGISinfo` contain the original text of [by-laws](https://github.com/Township-of-Clearmount/Municipal-Council/tree/main/LEGISinfo/By-laws) and [motions](https://github.com/Township-of-Clearmount/Municipal-Council/tree/main/LEGISinfo/Motions) passed by Council.
 
