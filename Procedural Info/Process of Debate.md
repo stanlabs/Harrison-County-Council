@@ -2,7 +2,7 @@
 
 *Last revised 16 December 2024*
 > [!note]
-> This infographic is published for reference only. Refer to the [Standing Orders](https://github.com/Township-of-Clearmount/Municipal-Council/blob/main/Procedural%20Info/Standing%20Orders.md) as the original authority for matters of procedure.
+> This infographic is published for reference only. Refer to the [Standing Orders](Standing%20Orders.md) as the original authority for matters of procedure.
 ---
 
 ```mermaid
