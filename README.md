@@ -1,3 +1,6 @@
+<img width="1280" height="640" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/6c14c71a-f3d2-4e09-aa11-68204f3e04a4" />
+
+
 # County Council for the Harrison County, Chesapeake
 ## ⚠️This is a Unofficial _Statutes at Large_ for Harrison County ⚠️
 
