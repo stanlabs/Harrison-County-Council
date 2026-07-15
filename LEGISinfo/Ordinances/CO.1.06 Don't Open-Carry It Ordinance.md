@@ -34,11 +34,11 @@ Longarm: Any firearm designed or intended to be fired from the shoulder, includi
 
 (a) No person shall open-carry a longarm within Jamestown Municipality Limits
 
-> (i) Whoever open-carries a longarm, who is not a law enforcement officer, or an on-duty member of the Harrison county militia, shall be guilty of open-carrying within a municipality
->
-> (ii) Open-carrying within a municipality is a misdemeanor-type offense
->
-> (iii) Open-carrying within a municipality shall warrant a citation of $525 or a county jail sentence of four (4) minutes
+- (i) Whoever open-carries a longarm, who is not a law enforcement officer, or an on-duty member of the Harrison county militia, shall be guilty of open-carrying within a municipality
+
+- (ii) Open-carrying within a municipality is a misdemeanor-type offense
+
+- (iii) Open-carrying within a municipality shall warrant a citation of $525 or a county jail sentence of four (4) minutes
 
 ---
 

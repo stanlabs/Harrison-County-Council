@@ -32,7 +32,7 @@ To establish the Jamestown Police Department; to provide for its organization, p
 
 (d) The Chief of the Department is vested, concurrently with the Sheriff, with the duties assigned to the Sheriff by section 80(a), (b), (c), and (e) of the Charter.
 
-> (i) The Chief shall exercise these duties only within the geographic boundaries of the Town of Jamestown ("Jamestown"), as defined by the Municipalities Ordinance.
+- (i) The Chief shall exercise these duties only within the geographic boundaries of the Town of Jamestown ("Jamestown"), as defined by the Municipalities Ordinance.
 
 ---
 
@@ -42,15 +42,15 @@ To establish the Jamestown Police Department; to provide for its organization, p
 
 (b) These officers may exercise their delegated functions outside of Jamestown only when:
 
-> (i) Acting in fresh or immediate pursuit of a person for an offense committed within the officer's primary jurisdiction, where such pursuit originates within that jurisdiction and is continuous and uninterrupted;
->
-> (ii) addressing an immediate and articulable threat to life or serious bodily harm, or to prevent imminent and substantial harm to public safety, where such threat or harm is committed in their presence or personally witnessed by them;
->
-> (iii) assisting the Sheriff's Office or another law enforcement agency upon request;
->
-> (iv) acting pursuant to a mutual aid agreement authorized by the County Council; or
->
-> (v) otherwise expressly authorized by County law.
+- (i) Acting in fresh or immediate pursuit of a person for an offense committed within the officer's primary jurisdiction, where such pursuit originates within that jurisdiction and is continuous and uninterrupted;
+
+- (ii) addressing an immediate and articulable threat to life or serious bodily harm, or to prevent imminent and substantial harm to public safety, where such threat or harm is committed in their presence or personally witnessed by them;
+
+- (iii) assisting the Sheriff's Office or another law enforcement agency upon request;
+
+- (iv) acting pursuant to a mutual aid agreement authorized by the County Council; or
+
+- (v) otherwise expressly authorized by County law.
 
 ---
 

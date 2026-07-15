@@ -32,21 +32,21 @@ To establish the Harrison County Weather Service
 
 (d) RESPONSIBILITIES - The Chief Meteorologist shall be responsible for:
 
-> (i) Producing and disseminating forecasts and outlooks for the County;
->
-> (ii) Issuing severe weather warnings, watches, alerts, bulletins, notices, or advisories throughout the County;
->
-> (iii) Defining criteria of severe weather phenomena
->
-> (iv) Spotting and tracking severe weather phenomena;
->
-> (v) Appointing subordinate employees, subject to any limitations imposed by the Charter or ordinance;
->
-> (vi) protection of critical infrastructure;
->
-> (vii) support civil authorities when lawfully requested during a severe weather event, and;
->
-> (viii) Entering into contracts, agreements, or memoranda of understanding with public or private entities as necessary to carry out its duties.
+- (i) Producing and disseminating forecasts and outlooks for the County;
+
+- (ii) Issuing severe weather warnings, watches, alerts, bulletins, notices, or advisories throughout the County;
+
+- (iii) Defining criteria of severe weather phenomena
+
+- (iv) Spotting and tracking severe weather phenomena;
+
+- (v) Appointing subordinate employees, subject to any limitations imposed by the Charter or ordinance;
+
+- (vi) protection of critical infrastructure;
+
+- (vii) support civil authorities when lawfully requested during a severe weather event, and;
+
+- (viii) Entering into contracts, agreements, or memoranda of understanding with public or private entities as necessary to carry out its duties.
 
 ---
 

@@ -26,11 +26,11 @@ To Regulate Mobile Catering Facilities.
 
 (a) Mobile Catering Facility
 
-> (i) a readily movable, vehicle-mounted, or wheeled retail food establishment either self-propelled or towed designed and equipped to store, prepare, portion, or serve food and beverages directly to consumers.
+- (i) a readily movable, vehicle-mounted, or wheeled retail food establishment either self-propelled or towed designed and equipped to store, prepare, portion, or serve food and beverages directly to consumers.
 
 (b) Acoustic Signaling Device
 
-> (i) Any electronic, mechanical, or digital sound-amplification device, music box, chime, or automated horn affixed to a vehicle, utilized for the express purpose of acoustic advertisement, broadcasting, or attracting public attention to commercial goods.
+- (i) Any electronic, mechanical, or digital sound-amplification device, music box, chime, or automated horn affixed to a vehicle, utilized for the express purpose of acoustic advertisement, broadcasting, or attracting public attention to commercial goods.
 
 ---
 
@@ -38,17 +38,17 @@ To Regulate Mobile Catering Facilities.
 
 (a) Any motor vehicle, or Mobile Catering Facility, may only operate a Commercial Acoustic Signaling Device under the following circumstances:
 
-> (i) The Motor Vehicle or Mobile Catering Facility is stationary.
->
-> (ii) The Motor Vehicle or Mobile Catering Facility is not within 300 studs of another Motor Vehicle or Mobile Catering Facility, in which case the Mobile Catering Facility Which had arrived first, will be allowed to utilize their Commercial Acoustic Signaling Device.
->
-> (iii) There is a person actively serving customers ice cream at the Mobile Catering Facility or Motor Vehicle.
+- (i) The Motor Vehicle or Mobile Catering Facility is stationary.
+
+- (ii) The Motor Vehicle or Mobile Catering Facility is not within 300 studs of another Motor Vehicle or Mobile Catering Facility, in which case the Mobile Catering Facility Which had arrived first, will be allowed to utilize their Commercial Acoustic Signaling Device.
+
+- (iii) There is a person actively serving customers ice cream at the Mobile Catering Facility or Motor Vehicle.
 
 Any person or operator who operates a Commercial Acoustic Signaling Device in violation of the provisions set forth in subsection (a) of Section 3 shall be guilty of the offense of Noise Pollution.
 
-> (i) Noise Pollution shall be an infraction-type offense.
->
-> (ii) Noise Pollution shall warrant a citation of $420
+- (i) Noise Pollution shall be an infraction-type offense.
+
+- (ii) Noise Pollution shall warrant a citation of $420
 
 ---
 
