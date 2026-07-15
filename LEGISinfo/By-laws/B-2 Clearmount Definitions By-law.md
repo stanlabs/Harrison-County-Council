@@ -19,7 +19,7 @@ To define the jurisdiction of the township’s services, and begin maintenance a
 3. “Town District” shall be defined as a jurisdiction within the township.
 4. “Regional Map of Clearmount” shall be defined in 4.1 of this ordinance, consisting of a map of the densest area within the township.
 
-4.1. ![(A)](https://github.com/Township-of-Clearmount/Municipal-Council/blob/main/Uploads/B-2%20(A).png)
+4.1. ![(A)](../../Uploads/B-2%20(A).png)
 
 5. “District of Yellowfields“ shall be defined as the land within the red square.
 6. “District of Downtown” shall be defined as the land within the blue square.
