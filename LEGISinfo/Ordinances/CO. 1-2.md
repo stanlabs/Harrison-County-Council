@@ -40,7 +40,7 @@ To establish the Jamestown Police Department; to provide for its organization, p
 
 (a) The Chief may appoint and remove officers of the Department, who shall be peace officers within the meaning of Section 81 of the Charter, in accordance with applicable law, the Charter, and County personnel policies. The Chief may delegate any of his or her functions to Department officers, as permitted by law.
 
-(b) These officers may exercise their delegated functions outside of the Jamestown only when:
+(b) These officers may exercise their delegated functions outside of Jamestown only when:
 
 > (i) Acting in fresh or immediate pursuit of a person for an offense committed within the officer's primary jurisdiction, where such pursuit originates within that jurisdiction and is continuous and uninterrupted;
 >
