@@ -1,4 +1,4 @@
-# County Council for the Harrison County, Cheseapeake
+# County Council for the Harrison County, Chesapeake
 ## ⚠️This is a Unofficial _Statutes at Large_ for Harrison County ⚠️
 
 `LEGISinfo` contain the original text of [by-laws](LEGISinfo/Ordinances), [motions and resolutions](LEGISinfo/Resolutions%20and%20Motions), [tabled documents](LEGISinfo/Tabled%20Documents), and nominations passed by Council.
