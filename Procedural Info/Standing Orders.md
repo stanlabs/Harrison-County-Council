@@ -6,8 +6,6 @@
 
 ---
 
-# 1st Harrison County Council Rules of Proceeding
-
 ## (1) Preamble
 
 Pursuant to Article III, Section 18 of the County Charter, the Harrison County Council shall adopt the following Rules of Proceeding.
