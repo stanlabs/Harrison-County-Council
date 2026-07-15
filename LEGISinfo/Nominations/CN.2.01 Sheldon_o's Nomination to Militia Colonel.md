@@ -1,6 +1,7 @@
 # CN. 2-1 | Sheldon_o's Nomination to Militia Colonel
 
 *Confirmed July 6, 2026*
+
 *Sworn In ---*
 
 ---
