@@ -1,7 +1,13 @@
 # County Council for the Harrison County, Cheseapeake
+## ⚠️This is a Unofficial _Statutes at Large_ for Harrison County ⚠️
 
 `LEGISinfo` contain the original text of [by-laws](LEGISinfo/By-laws) and [motions](LEGISinfo/Motions) passed by Council.
 
 `Procedural Info` contains information on the practice and procedure of Council, including [standing orders](Procedural%20Info/Standing%20Orders.md) and [decisions of the chair](Procedural%20Info/Selected%20Decisions%20of%20the%20Chair.md).
 
 The [wiki](https://github.com/stanlabs/Harrison-County-Council/wiki) is an index of by-laws and their amendments. For some important by-laws, there will be a consolidation which shows the current, in force text, with all amendments made. Please note that if a consolidation and the original by-law conflicts, the original by-law has the force of law.
+
+## Why Use Github?
+For the longest of time, mock-legislators on ROBLOX struggled with finding a codification system that is transparent, secure, and queryable. For a long time, Trello was the gold standard for many Ro-States. However, it proved insecure, as entire boards could be easily deleted, and many laws were lost when linked Google Drive documents were removed or made private (as seen from Karl's Mayflower and Ridgeway). It also lacked effective search functionality, requiring users to open or download documents to search their contents. Google Sheets has recently emerged as an alternative, particularly in Clark and Harrison. However, it lacks transparency, as edit history is inaccessible to anyone without edit permissions. It also can become incredibly messy, disorganized, and weirdly formatted throughout time. 
+
+GitHub has proven to be an excellent platform for legislative tracking and archiving. It is used as the primary repository for the [State of Millbrook](https://github.com/State-of-Millbrooke/Laws), and I have also used it successfully in my own mock legislatures. It is one of the most secure, transparent, and searchable options available. Every change to a repository is permanently recorded and publicly visible, allowing anyone to view the exact state of the law at any point in time, which is especially valuable in judicial proceedings. Repositories can also be easily restored if accidental or malicious changes occur. GitHub also supports full-text search across every law and includes a built-in wiki where maintainers can publish consolidated references and other documentation to improve clarity and accessibility.
