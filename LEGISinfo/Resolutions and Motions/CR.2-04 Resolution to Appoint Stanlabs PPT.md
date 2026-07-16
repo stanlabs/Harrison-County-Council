@@ -1,3 +1,6 @@
+> [!NOTE]
+> This resolution was considered and passed even though [CR.2-01](https://github.com/stanlabs/Harrison-County-Council/blob/main/LEGISinfo/Resolutions%20and%20Motions/CR.2-01%20Resolution%20to%20Appoint%20A0IM%20PPT.md) (Resolution to appoint A0IM as PPT) was in effect at the time. This resolution has been considered null since then.
+
 # CR. 2-4 | Resolution to Appoint Stanlabs PPT
 
 *Introduced July 1st, 2026*
