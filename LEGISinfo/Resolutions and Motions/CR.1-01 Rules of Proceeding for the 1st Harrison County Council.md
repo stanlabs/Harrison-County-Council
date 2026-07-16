@@ -1,4 +1,4 @@
- # 2nd Harrison County Council Rules of Proceeding
+ # 1st Harrison County Council Rules of Proceeding
 
 *Adopted Feburary 7, 2026*
 
