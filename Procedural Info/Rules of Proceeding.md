@@ -1,4 +1,14 @@
- # 2nd Harrison County Council Rules of Proceeding
+|   **HISTORY**   | **Item Number** | **Item Date** | **View Item** |
+|:---------------:|:---------------:|:-------------:|:-------------:|
+| **Parent**      |      CR.2-02           |    July 6, 2026           |     [CR.2-02 Rules of Proceeding for the 2nd Harrison County Council](https://github.com/stanlabs/Harrison-County-Council/blob/main/LEGISinfo/Resolutions%20and%20Motions/CR.2-02%20Rules%20of%20Proceeding%20for%20the%202nd%20Harrison%20County%20Council.md)         |
+| **Amendments:** |                 |               |               |
+
+> [!NOTE]
+> This consolidation is published for convenience only.
+
+---
+
+# 2nd Harrison County Council Rules of Proceeding
 
 *Adopted July 6, 2026*
 
