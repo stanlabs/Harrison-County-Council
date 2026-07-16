@@ -1,4 +1,4 @@
-# CR 1-3 | CR 1-3 | Resolution to appoint Dynamiteswag81 County Clerk
+# CR 1-3 | Resolution to appoint Dynamiteswag81 County Clerk
 
 *Introduced Feburary 2nd, 2026*
 
