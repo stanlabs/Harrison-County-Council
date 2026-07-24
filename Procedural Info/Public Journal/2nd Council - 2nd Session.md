@@ -1,6 +1,3 @@
-> [!NOTE]
-> These minutes have not been approved by the County Council. They may be subject to change.
-
 Second Council 2nd Session - 3:52 pm PST 7/6/26
 
 Attendance:
