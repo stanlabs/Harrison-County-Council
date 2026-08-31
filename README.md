@@ -4,7 +4,7 @@
 # County Council for the Harrison County, Chesapeake
 ## ⚠️This is a Unofficial _Statutes at Large_ for Harrison County ⚠️
 
-`LEGISinfo` contain the original text of [ordinances](LEGISinfo/Ordinances), [motions and resolutions](LEGISinfo/Resolutions%20and%20Motions), [tabled documents](LEGISinfo/Tabled%20Documents), and nominations passed by Council.
+`LEGISinfo`   contain the original text of [ordinances](LEGISinfo/Ordinances), [motions and resolutions](LEGISinfo/Resolutions%20and%20Motions), [tabled documents](LEGISinfo/Tabled%20Documents), and nominations passed by Council.
 
 `Procedural Info` contains information on the practice and procedure of Council, including [rules of proceedings](Procedural%20Info/Rules%20of%20Proceeding.md), [decisions of the chair](Procedural%20Info/Selected%20Decisions%20of%20the%20Chair.md), and the [public journal](Procedural%20Info/Public%20Journal) that contains the minutes of council meetings.
 
