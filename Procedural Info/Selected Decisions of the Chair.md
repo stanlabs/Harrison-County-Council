@@ -116,11 +116,9 @@ Councilor LordHenryVonHenry argued that a matter that has been laid on the table
 > [!NOTE]
 > **Executive Sessions — Historical and Parliamentary Context**
 >
-> The terminology of "executive business" or "executive session" has a distinct historical usage in legislative bodies, particularly the **United States Senate**, where executive sessions historically concerned presidential nominations and other matters requiring proceedings closed to the public.
+> Though there is not "executive business," the term "executive session" has a distinct historical usage in legislative bodies, particularly the **United States Senate**, where executive sessions historically concerned presidential nominations and other matters requiring proceedings closed to the public.
 >
-> In a deliberative body, an executive session is not ordinarily presumed to exist merely because the body is considering an appointment or other non-legislative matter. It must derive from the body's governing law or rules of proceeding.
->
-> Where an executive session is authorized, it generally refers to a portion of the body's proceedings from which the public is excluded for matters requiring confidentiality, such as:
+> Executive sessions, as described in RONR, it generally refers to a portion of the body's proceedings from which the public is excluded for matters requiring confidentiality, such as:
 >
 > - Pending or potential litigation;
 > - Personnel matters;
